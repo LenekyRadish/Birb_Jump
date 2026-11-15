@@ -1,5 +1,8 @@
 ## Birb Jump!
 
+<img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/f3293216-9c1b-4258-a149-691eb0df6641" />
+
+
 This is a silly little game I made for the Hack Club Haven game jam!
 
 All art assets code was hand-made me (booooo AI), and all the music I found for free online.
