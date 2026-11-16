@@ -10,3 +10,5 @@ Feel free to take inspiration from my code (That's what open source is all about
 so I am far from an expert :P
 
 Happy coding!
+
+### PS: If you actually just want to _play_ the game instead of looking through all the super cool code and assets, you can play it at https://lenekyradish.itch.io/birb-jump :)
